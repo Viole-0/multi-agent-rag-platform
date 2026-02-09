@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" />
+  <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg" />
+  <img src="https://img.shields.io/badge/VectorDB-ChromaDB-4B8BBE.svg" />
+  <img src="https://img.shields.io/badge/Multi--Agent-LangGraph-8A2BE2.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/github/stars/Viole-0/multi-agent-rag-platform?style=social" />
+</p>
+
 # 🧠 **Multi-Agent RAG Intelligence Platform**  
 *A collaborative AI engine for research intelligence, trend forecasting, narrative generation,  
 and technical insight discovery.*
